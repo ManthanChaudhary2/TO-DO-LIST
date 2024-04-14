@@ -1,8 +1,5 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Step1: Dawnload code and open it in vs Code or ani editor.
+Step2: On terminal inside editor run (npm i) and (ng serve) this will generate a node_modules folder
+Step3: Open src/aap.jsx file to see the code. 
+Step4: Also needed to install modules like uuid by using ( npm i uuid ), and also need to install react-icon (npm install react-icons --save)
+Step5: (npm run dev) and this will provide you with a host address and by ctrl+Right click on that link you will be able to use TODO List aap
